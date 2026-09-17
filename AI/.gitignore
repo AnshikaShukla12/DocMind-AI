@@ -1,0 +1,17 @@
+AI/data/chroma
+*.bin
+*.sqlite3
+*.db
+.venv
+__pycache__/
+node_modules/
+AI/data/uploads
+data/**/*.json
+data/chroma/**
+data/uploads/**
+
+AI/data/*
+.env
+.env.local
+.env.*.local
+
